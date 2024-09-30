@@ -17,13 +17,13 @@ La solución está compuesta por cuatro experiencias únicas:
 3. **Formación Paso a Paso en VR**: Una guía completamente inmersiva que guía a los usuarios a través del proceso de montaje en un **entorno virtual**, garantizando una experiencia de aprendizaje segura y controlada.
 4. **Prueba Práctica de Montaje en Realidad Mixta**: Una combinación de montaje virtual y real, donde los usuarios interactúan simultáneamente con elementos físicos y digitales.
 
-![Ejemplo del entorno RV](images/entorno.png)
-![Ejemplo del Listado de Herramientas](images/destornillador.png)
-![Ejemplo del Listado de materiales](images/materia.png)
-![Ejemplo de formación en RV (1)](images/formacion1.png)
-![Ejemplo de formación en RV (2)](images/formacion2.png)
-![Ejemplo de formación en RM (1)](images/realidadmixta1.png)
-![Ejemplo de formación en RM (2)](images/realidadmixta2.png)
+![Ejemplo del entorno RV](imagenes/entorno.png)
+![Ejemplo del Listado de Herramientas](imagenes/destornillador.png)
+![Ejemplo del Listado de materiales](imagenes/materia.png)
+![Ejemplo de formación en RV (1)](imagenes/formacion1.png)
+![Ejemplo de formación en RV (2)](imagenes/formacion2.png)
+![Ejemplo de formación en RM (1)](imagenes/realidadmixta1.png)
+![Ejemplo de formación en RM (2)](imagenes/realidadmixta2.png)
 
 Esta solución de formación mejora la **eficiencia en el entrenamiento de los empleados**, reduce errores y acelera la curva de aprendizaje al combinar simulaciones virtuales con la práctica real.
 
