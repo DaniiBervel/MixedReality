@@ -17,7 +17,7 @@ La solución está compuesta por cuatro experiencias únicas:
 1. **Listado de Herramientas**: Los usuarios pueden visualizar las herramientas necesarias para el montaje, mejorando la familiarización y reduciendo los tiempos de preparación.
 ![Ejemplo del Listado de Herramientas](imagenes/destornillador.png)
 2. **Listado de Materiales**: Información detallada sobre los materiales requeridos para la tarea, permitiendo que los trabajadores sepan qué necesitan antes de comenzar el proceso.
-![Ejemplo del Listado de materiales](imagenes/materia.png)
+![Ejemplo del Listado de materiales](imagenes/materia.PNG)
 3. **Formación Paso a Paso en VR**: Una guía completamente inmersiva que guía a los usuarios a través del proceso de montaje en un **entorno virtual**, garantizando una experiencia de aprendizaje segura y controlada.
 ![Ejemplo de formación en RV (1)](imagenes/formacion1.png)
 ![Ejemplo de formación en RV (2)](imagenes/formacion2.png)
