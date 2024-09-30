@@ -35,5 +35,7 @@ La solución está compuesta por cuatro experiencias únicas:
 
 Esta solución de formación mejora la **eficiencia en el entrenamiento de los empleados**, reduce errores y acelera la curva de aprendizaje al combinar simulaciones virtuales con la práctica real.
 
+Pulse en la siguiente imagen para ver un vídeo donde se detallan las cuatro experiencias.
+
 [![Ver video demo en YouTube](https://img.youtube.com/vi/g-qD4mWmMQ4/hqdefault.jpg)](https://www.youtube.com/watch?v=g-qD4mWmMQ4)
 
