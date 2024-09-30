@@ -22,6 +22,7 @@ La solución está compuesta por cuatro experiencias únicas:
 ![Ejemplo de formación en RV (1)](imagenes/formacion1.png)
 ![Ejemplo de formación en RV (2)](imagenes/formacion2.png)
 4. **Prueba Práctica de Montaje en Realidad Mixta**: Una combinación de montaje virtual y real, donde los usuarios interactúan simultáneamente con elementos físicos y digitales.
+   
 ![Ejemplo de formación en RM (1)](imagenes/realidadmixta1.png)
 ![Ejemplo de formación en RM (2)](imagenes/realidadmixta2.png)
 
