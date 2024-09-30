@@ -15,18 +15,19 @@ El futuro de la formación laboral es inmersivo, interactivo y dinámico. Durant
 La solución está compuesta por cuatro experiencias únicas:
 
 1. **Listado de Herramientas**: Los usuarios pueden visualizar las herramientas necesarias para el montaje, mejorando la familiarización y reduciendo los tiempos de preparación.
-2. 
+   
 ![Ejemplo del Listado de Herramientas](imagenes/destornillador.png)
 
-4. **Listado de Materiales**: Información detallada sobre los materiales requeridos para la tarea, permitiendo que los trabajadores sepan qué necesitan antes de comenzar el proceso.
-5. 
+2. **Listado de Materiales**: Información detallada sobre los materiales requeridos para la tarea, permitiendo que los trabajadores sepan qué necesitan antes de comenzar el proceso.
+ 
 ![Ejemplo del Listado de materiales](imagenes/materia.PNG)
 
-7. **Formación Paso a Paso en VR**: Una guía completamente inmersiva que guía a los usuarios a través del proceso de montaje en un **entorno virtual**, garantizando una experiencia de aprendizaje segura y controlada.
-8. 
+3. **Formación Paso a Paso en VR**: Una guía completamente inmersiva que guía a los usuarios a través del proceso de montaje en un **entorno virtual**, garantizando una experiencia de aprendizaje segura y controlada.
+
 ![Ejemplo de formación en RV (1)](imagenes/formacion1.png)
 ![Ejemplo de formación en RV (2)](imagenes/formacion2.png)
-9. **Prueba Práctica de Montaje en Realidad Mixta**: Una combinación de montaje virtual y real, donde los usuarios interactúan simultáneamente con elementos físicos y digitales.
+
+4. **Prueba Práctica de Montaje en Realidad Mixta**: Una combinación de montaje virtual y real, donde los usuarios interactúan simultáneamente con elementos físicos y digitales.
    
 ![Ejemplo de formación en RM (1)](imagenes/realidadmixta1.png)
 ![Ejemplo de formación en RM (2)](imagenes/realidadmixta2.png)
